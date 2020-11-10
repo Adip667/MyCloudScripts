@@ -1,1 +1,1 @@
-Few BOTO3 python code i wrote when teaching myself python
+Few BOTO3 python scripts i wrote when teaching myself python

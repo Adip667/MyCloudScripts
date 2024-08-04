@@ -1,0 +1,6 @@
+[ec2_region]
+All = false
+regions = eu-north-1, eu-central-1, eu-north-2, eu-west-1, us-east-1
+
+[aws_details]
+aws_account=1234567
